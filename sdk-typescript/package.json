@@ -9,17 +9,17 @@
     "test-data",
     "testing"
   ],
-  "homepage": "https://github.com/iisleem/testdata-factory#readme",
+  "homepage": "https://github.com/ismailisleem/testdata-factory#readme",
   "bugs": {
-    "url": "https://github.com/iisleem/testdata-factory/issues"
+    "url": "https://github.com/ismailisleem/testdata-factory/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/iisleem/testdata-factory.git",
+    "url": "git+https://github.com/ismailisleem/testdata-factory.git",
     "directory": "sdk-typescript"
   },
   "license": "MIT",
-  "author": "Ismail Sleem",
+  "author": "Ismail Isleem",
   "type": "module",
   "main": "dist/src/index.js",
   "types": "dist/src/index.d.ts",

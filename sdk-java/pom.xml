@@ -10,7 +10,7 @@
 
   <name>TestData Factory Java SDK</name>
   <description>Java SDK for TestData Factory contracts and deterministic test data workflows.</description>
-  <url>https://github.com/iisleem/testdata-factory</url>
+  <url>https://github.com/ismailisleem/testdata-factory</url>
 
   <licenses>
     <license>
@@ -22,21 +22,21 @@
 
   <developers>
     <developer>
-      <id>iisleem</id>
-      <name>Ismail Sleem</name>
-      <url>https://github.com/iisleem</url>
+      <id>ismailisleem</id>
+      <name>Ismail Isleem</name>
+      <url>https://github.com/ismailisleem</url>
     </developer>
   </developers>
 
   <scm>
-    <connection>scm:git:https://github.com/iisleem/testdata-factory.git</connection>
-    <developerConnection>scm:git:ssh://git@github.com:iisleem/testdata-factory.git</developerConnection>
-    <url>https://github.com/iisleem/testdata-factory</url>
+    <connection>scm:git:https://github.com/ismailisleem/testdata-factory.git</connection>
+    <developerConnection>scm:git:ssh://git@github.com:ismailisleem/testdata-factory.git</developerConnection>
+    <url>https://github.com/ismailisleem/testdata-factory</url>
   </scm>
 
   <issueManagement>
     <system>GitHub Issues</system>
-    <url>https://github.com/iisleem/testdata-factory/issues</url>
+    <url>https://github.com/ismailisleem/testdata-factory/issues</url>
   </issueManagement>
 
   <properties>
