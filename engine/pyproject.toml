@@ -10,7 +10,7 @@ readme = "README.md"
 requires-python = ">=3.11"
 license = "MIT"
 authors = [
-  { name = "Ismail Sleem" }
+  { name = "Ismail Isleem" }
 ]
 keywords = [
   "automation",
@@ -50,10 +50,10 @@ dev = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/iisleem/testdata-factory"
-Repository = "https://github.com/iisleem/testdata-factory"
-Issues = "https://github.com/iisleem/testdata-factory/issues"
-Changelog = "https://github.com/iisleem/testdata-factory/blob/main/CHANGELOG.md"
+Homepage = "https://github.com/ismailisleem/testdata-factory"
+Repository = "https://github.com/ismailisleem/testdata-factory"
+Issues = "https://github.com/ismailisleem/testdata-factory/issues"
+Changelog = "https://github.com/ismailisleem/testdata-factory/blob/main/CHANGELOG.md"
 
 [tool.hatch.build.targets.wheel]
 packages = ["src/testdata_factory_engine"]

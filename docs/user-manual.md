@@ -15,7 +15,7 @@ Requirements:
 Install the Python engine:
 
 ```bash
-git clone https://github.com/iisleem/testdata-factory.git
+git clone https://github.com/ismailisleem/testdata-factory.git
 cd testdata-factory
 python3 -m venv .venv
 . .venv/bin/activate
