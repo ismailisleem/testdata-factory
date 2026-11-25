@@ -1,4 +1,4 @@
-# TestData Factory
+# AI TestData Factory
 
 TestData Factory is an open-source, local-first toolkit for creating deterministic synthetic data for automated tests. It turns reviewed `.tdf.json` contracts, scanned forms, JSON Schema files, or OpenAPI request schemas into repeatable scenario-driven test records.
 
